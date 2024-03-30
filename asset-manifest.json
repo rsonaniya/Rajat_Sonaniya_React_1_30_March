@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rajat_Sonaniya_React_1_30_March/static/css/main.21c477b5.css",
+    "main.js": "/Rajat_Sonaniya_React_1_30_March/static/js/main.95d76d76.js",
+    "index.html": "/Rajat_Sonaniya_React_1_30_March/index.html",
+    "main.21c477b5.css.map": "/Rajat_Sonaniya_React_1_30_March/static/css/main.21c477b5.css.map",
+    "main.95d76d76.js.map": "/Rajat_Sonaniya_React_1_30_March/static/js/main.95d76d76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c477b5.css",
+    "static/js/main.95d76d76.js"
+  ]
+}
